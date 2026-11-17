@@ -3,14 +3,14 @@
 > **專業量化全資產投資決策系統 · Format 1 HTML 渲染標準 · 智能推播中心 (Alert Hub 10 大場景) 雲端公開報告**
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=flat-square&logo=vercel)](https://financefree-xq-pub.vercel.app/)
-[![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue?style=flat-square)](https://github.com/louiswu1568/FinanceFree-XQ-Pub)
+[![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue?style=flat-square)](https://github.com/louiswu1568/Personal-FinanceFree-XQ-Pub)
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)](#-智慧財產權聲明與商業授權規範)
 
 ---
 
 ## 📌 系統簡介
 
-**FinanceFree-XQ-Pub** 為 [FinanceFree-XQ 投資決策系統](https://github.com/louiswu1568/FinanceFree-XQ) 之公開靜態網頁前端，部署於 **Vercel.app** 雲端平台。每日透過自動化排程引擎，產出符合 **Format 1 標準格式** 之全資產投資體檢報告與 **10 大智能推播場景總覽表**，並在 LINE Official Bot / Email 推送通知中附帶此公開報告連結供點閱。
+**FinanceFree-XQ-Pub** 為 [FinanceFree-XQ 投資決策系統](https://github.com/louiswu1568/Personal-FinanceFree-XQ) 之公開靜態網頁前端，部署於 **Vercel.app** 雲端平台。每日透過自動化排程引擎，產出符合 **Format 1 標準格式** 之全資產投資體檢報告與 **10 大智能推播場景總覽表**，並在 LINE Official Bot / Email 推送通知中附帶此公開報告連結供點閱。
 
 ---
 
@@ -41,7 +41,7 @@
 * **嚴禁 AI / LLM 爬蟲抓取：** 嚴禁使用爬蟲或自動化工具抓取本系統網頁與數據作為 AI/LLM 模型訓練資料集。
 * **非營利引用規範：** 基於學術研究或非營利性引用時，**必須事前書面告知原作者**並於引用處顯著標註：
   ```
-  引用自 FinanceFree-XQ 投資決策系統 (Author: Louis Wu / GitHub: louiswu1568/FinanceFree-XQ-Pub)
+  引用自 FinanceFree-XQ 投資決策系統 (Author: Louis Wu / GitHub: louiswu1568/Personal-FinanceFree-XQ-Pub)
   ```
 
 ### 3. 專業金融投資與法律免責聲明 (Financial Non-Advisory & Risk Disclaimer)
